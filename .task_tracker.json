@@ -1,0 +1,5 @@
+{
+  "task_description": "{'component_name': 'Main Container for BookBazaar', 'description': 'Primary container for BookBazaar implementation: A full-stack Online Bookstore web application where users can register/login, browse books by categories, add books to cart, place orders, and view order history. Admins can manage the book catalog. The backend uses Node.js with Express and MongoDB/PostgreSQL, following an MVC structure and secure authentication. The frontend is a modern, responsive UI built with HTML, CSS, and Bootstrap or Tailwind, featuring banners, categories, trending books, and interactive cart/order features.', 'framework': 'node', 'platform': 'web'}",
+  "tasks": {},
+  "next_task_id": 1
+}
